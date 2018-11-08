@@ -2,7 +2,17 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
-description: |
+title: Asesoría contable
+description:
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  En rocamora Asesores nos centramos en los usos contables más allá del mero formalismo que suponen los mismos. Gracias a una llevanza de libros rigurosa y exhaustiva dotamos a una empresa de un valor añadido de suma importancia , el control. Control que se va a transmitir en un reporting actualizado, asesoramiento en toma de decisiones y análisis de su actuación, todos ellos sustentados por profesionaels con experiencia y un software líder en el mercado.
+  <br>
+  <br>
+  -Asesoramiento. <i class="fa fa-check" aria-hidden="true"></i><br>
+  -Gestión contable. <i class="fa fa-check" aria-hidden="true"></i><br>
+  -Verificación del cumplimiento de normativa contable. <i class="fa fa-check" aria-hidden="true"></i><br>
+  -Interpretación de asientos.<i class="fa fa-check" aria-hidden="true"></i><br>
+  -Implantación de programas informativos.<i class="fa fa-check" aria-hidden="true"></i><br>
+  -Reporting interno.<i class="fa fa-check" aria-hidden="true"></i><br>
+  -Emisión de estados contables y financieros.<i class="fa fa-check" aria-hidden="true"></i><br>
+  -Asistencia en tareas de administració internas.<i class="fa fa-check" aria-hidden="true"></i>
