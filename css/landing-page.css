@@ -190,6 +190,7 @@ p.copyright {
    border: none;
    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
    background-color: #f8f8f8;
+
 }
 
 /* The container <div> - needed to position the dropdown content */
@@ -197,6 +198,18 @@ p.copyright {
    position: relative;
    display: inline-block;
    margin-top:13px;
+   color:#777;
+   right:-1px;
+
+}
+
+#adrop{
+  color:#777;
+  text-decoration: none;
+}
+
+#adrop:hover{
+  color:#333;
 }
 
 /* Dropdown Content (Hidden by Default) */
@@ -204,10 +217,12 @@ p.copyright {
    display: none;
    position: absolute;
    background-color: #f1f1f1;
-   min-width: 95px;
+   min-width: 120px;
    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
    z-index: 1;
    margin-top:14px;
+   right:-10px;
+
 }
 
 /* Links inside the dropdown */
@@ -216,6 +231,7 @@ p.copyright {
    padding: 12px 16px;
    text-decoration: none;
    display: block;
+
 }
 
 /* Change color of dropdown links on hover */
@@ -245,6 +261,7 @@ p.copyright {
 }
 .dropli{
   height: 50px;
+  margin-left: 18px;
 }
 
 #servicesBtn{
