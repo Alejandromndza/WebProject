@@ -9,31 +9,39 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand page-scroll" href="#home"><img src="img/logo.jpg" alt="rocamoralogo" class="logoimg"></a>
+      <a class="navbar-brand page-scroll" href="#home"><img src="img/logo.png" alt="rocamoralogo" class="logoimg"></a>
 
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
       <ul class="nav navbar-nav navbar-right">
         <li>
           <a class="page-scroll" href="#about">El Despacho</a>
         </li>
+
         <li class="dropli">
           <div class="dropdown">
-            <a class="page-scroll" id="servicesBtn" href="#services">Departamentos</a>
+
+            <a class="page-scroll"  href="#services">Departamentos</a>
+
             <div class="dropdown-content">
               {% for post in site.posts reversed %}
               <a class="page-scroll" href="#{{post.link}}">{{post.link}}</a>
               {% endfor %}
-
             </div>
-          </div>
 
+          </div>
         </li>
+
+
         <li>
           <a class="page-scroll" href="#contact">Contacto</a>
         </li>
+
       </ul>
+
+
     </div>
     <!-- /.navbar-collapse -->
   </div>
