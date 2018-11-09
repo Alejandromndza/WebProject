@@ -1,11 +1,12 @@
 ---
 layout: default
-img: dog.png
+img: financiera.png
 category: Services
 title: Asesoría financiera
 nav-title: Financiera
 description:
 link: Financiera
+icon-credit: https://www.flaticon.com/authors/smashicons
 ---
   Turn your 2D designs into high quality, 3D
   product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit

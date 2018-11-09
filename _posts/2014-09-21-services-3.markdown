@@ -1,11 +1,12 @@
 ---
 layout: default
-img: dog.png
+img: gestion.png
 category: Services
 title: Gestión
 nav-title: Gestión
 description:
 link: Gestión
+icon-credit: https://www.flaticon.com/authors/pause08
 ---
   Turn your 2D designs into high quality, 3D
   product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
