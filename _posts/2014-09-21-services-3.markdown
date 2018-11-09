@@ -3,6 +3,7 @@ layout: default
 img: dog.png
 category: Services
 title: Gestión
+nav-title: Gestión
 description:
 link: Gestión
 ---
