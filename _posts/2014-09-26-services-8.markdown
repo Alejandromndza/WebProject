@@ -1,0 +1,32 @@
+---
+layout: default
+img: financiera.png
+category: Services
+title: Asesoría laboral
+nav-title: Laboral
+description:
+link: Laboral
+icon-credit: https://www.flaticon.com/authors/smashicons
+---
+Rocamora Asesores, pone a su disposición, toda la ayuda necesaria a través de profesionales expertos en
+toda materia en al asesoramiento laboral de empresas.
+Dentro de este ámbito, empezamos desde la solicitud del código de Cuenta de cotización, elaboración y
+presentación de contratos laborales, les enseñamos todas las modalidades de contratación vigentes, altas,
+bajas, etc...
+Elaboración y presentación de TC1 y TC2, confección de nóminas, cálculo de liquidaciones y finiquitos,
+conciliaciones, tramitaciones de baja por IT o Accidentes de trabajo.
+Confección de contratos: realizamos, preparamos y confeccionamos los contratos y a su vez, su posterior
+presentación telemática ante el SEPE.<br>
+<br>
+Altas en la Seguridad Social: presentamos las altas y bajas de los trabajadores. Presentación
+telemática.<i class="fa fa-check" aria-hidden="true"></i><br>
+Nóminas: realización mensual de todas las nóminas de su empresa.<i class="fa fa-check" aria-hidden="true"></i><br>
+Seguros Sociales: como dijimos anteriormente, elaboramos y presentamos el TC1 y TC2 mensuales.<i class="fa fa-check" aria-hidden="true"></i><br>
+Certificados de la Seguridad social de estar al corriente con todos los pagos.<i class="fa fa-check" aria-hidden="true"></i><br>
+Finiquitos: cálculo de finiquitos de los trabajadores, así como su liquidación.<i class="fa fa-check" aria-hidden="true"></i><br>
+Cálculo, y gestión de las pensiones ante la Seguridad Social.<i class="fa fa-check" aria-hidden="true"></i><br>
+Certificados de empresas.<i class="fa fa-check" aria-hidden="true"></i><br>
+Partes de accidentes.<i class="fa fa-check" aria-hidden="true"></i><br>
+Conciliaciones ante el Servicio de Mediación, Arbitraje y Conciliación.<i class="fa fa-check" aria-hidden="true"></i><br>
+Asistencia de inspecciones laborales.<i class="fa fa-check" aria-hidden="true"></i><br>
+Partes de enfermedad.<i class="fa fa-check" aria-hidden="true"></i>
