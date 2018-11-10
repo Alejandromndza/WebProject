@@ -1,12 +1,12 @@
 ---
 layout: default
-img:
+img: seguros.png
 category: Services
 title: Seguros
 nav-title: Seguros
 description:
 link: Seguros
-icon-credit:
+icon-credit: https://www.flaticon.com/authors/pongsakornred
 ---
 En Rocamora Asesores realizamos un estudio exhaustivo sobre sus pólizas, optimizando así las mismas,
 además de la cobertura de sus primas. Trabajamos con Allianz, líder global en productos de No Vida,

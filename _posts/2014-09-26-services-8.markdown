@@ -1,12 +1,12 @@
 ---
 layout: default
-img: financiera.png
+img: laboral.png
 category: Services
 title: Asesoría laboral
 nav-title: Laboral
 description:
 link: Laboral
-icon-credit: https://www.flaticon.com/authors/smashicons
+icon-credit: https://www.freepik.com
 ---
 Rocamora Asesores, pone a su disposición, toda la ayuda necesaria a través de profesionales expertos en
 toda materia en al asesoramiento laboral de empresas.
