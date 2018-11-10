@@ -1,13 +1,21 @@
 ---
 layout: default
-img: 
+img:
 category: Services
-title: Seguros Allianz
-nav-title: Seguros Allianz
+title: Seguros
+nav-title: Seguros
 description:
-link: Seguros-Allianz
+link: Seguros
 icon-credit:
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+En Rocamora Asesores realizamos un estudio exhaustivo sobre sus pólizas, optimizando así las mismas,
+además de la cobertura de sus primas. Trabajamos con Allianz, líder global en productos de No Vida,
+asistencia y seguros de crédito. En Vida y Salud, así como en gestión de activos, el Grupo Allianz está
+entre los cinco mayores proveedores del mundo. También es uno de los principales proveedores de
+seguros industriales a nivel mundial.
+El Grupo Allianz trabaja día a día para lograr el objetivo de convertirse en el proveedor mundial de
+servicios financieros en el que más se puede confiar. Para ello, se basa en sus principios fundamentales de
+experiencia, integridad y sostenibilidad.
+El departamento de seguros trabaja conjuntamente con el fiscal para una correcta transferencia a sus
+declaraciones tributarias, servicio postventa para siniestros, prevención tanto familiar, profesional o
+empresarial.

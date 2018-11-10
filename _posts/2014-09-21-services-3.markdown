@@ -8,6 +8,11 @@ description:
 link: Gestión
 icon-credit: https://www.flaticon.com/authors/pause08
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+En Rocamora Asesores intentamos ayudar a nuestros clientes más allá de las obligaciones estandarizadas
+de un despacho profesional, por ello disponemos de un departamento que engloba tareas de lo más dispar.<br>
+<br>
+Facturación.<i class="fa fa-check" aria-hidden="true"></i><br>
+Trámites con entidades públicas.<i class="fa fa-check" aria-hidden="true"></i><br>
+Tramitación de certificados digitales.<i class="fa fa-check" aria-hidden="true"></i><br>
+Renovación de certificados digitales.<i class="fa fa-check" aria-hidden="true"></i><br>
+Gestión de cambios en titularidad de facturación.<i class="fa fa-check" aria-hidden="true"></i><br>

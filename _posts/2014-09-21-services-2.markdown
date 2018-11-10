@@ -8,6 +8,26 @@ description:
 link: Fiscal
 icon-credit: https://www.freepik.com
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+
+En Rocamora Asesores, en connivencia con un exhaustivo control contable, focalizamos la vertiente
+fiscal desde la formación continua de nuestros profesionales responsables de este área, dada la
+complejidad y continua actualización en materia legislativa en el ámbito tributario.
+Consideramos que un buen asesoramiento a nivel fiscal es clave en el desarrollo de una actividad
+económica, dado que la optimización de las cargas tributarias tiene una transferencia directa a nivel
+monetario.<br>
+<br>
+<b>Asesoramiento tributario especializado.</b><br>
+Planificación de la carga fiscal y tributaria.<i class="fa fa-check" aria-hidden="true"></i><br>
+Estudios de situación fiscal.<i class="fa fa-check" aria-hidden="true"></i><br>
+Optimización de cargas impositivas.<i class="fa fa-check" aria-hidden="true"></i><br>
+Declaraciones fiscales: IVA, Sociedades, IRPF, No Residentes, Impuestos Especiales.<i class="fa fa-check" aria-hidden="true"></i><br>
+Certificaciones tributarias.<i class="fa fa-check" aria-hidden="true"></i><br>
+Gestión del entorno normativo, actualización permanente.<i class="fa fa-check" aria-hidden="true"></i><br>
+Servicio de consultas y dictámenes en materia fiscal.<i class="fa fa-check" aria-hidden="true"></i><br>
+Atención y contestación de requerimientos.<i class="fa fa-check" aria-hidden="true"></i><br>
+Comprobaciones en Gestión Tributaria.<i class="fa fa-check" aria-hidden="true"></i><br>
+Aplazamientos, fraccionamiento y compensación de deudas.<i class="fa fa-check" aria-hidden="true"></i><br>
+Inspecciones fiscales.<i class="fa fa-check" aria-hidden="true"></i><br>
+Comprobaciones de valores.<i class="fa fa-check" aria-hidden="true"></i><br>
+Actuación contencioso administrativos ante los Tribunales de Justicia.<i class="fa fa-check" aria-hidden="true"></i><br>
+Presentaciones telemáticas y gestión de notificaciones electrónicas.<i class="fa fa-check" aria-hidden="true"></i>
