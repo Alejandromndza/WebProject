@@ -1,0 +1,235 @@
+/*----------------------------------------------------
+@File: Default Styles
+@Author: Rocky Ahmed
+@URL: http://wethemez.com
+Author E-mail: rockybd1995@gmail.com
+
+This file contains the styling for the actual theme, this
+is the file you need to edit to change the look of the
+theme.
+---------------------------------------------------- */
+/*=====================================================================
+@Template Name: HostHub Construction 
+@Author: Rocky Ahmed
+@Developed By: Rocky Ahmed
+@Developer URL: http://rocky.wethemez.com
+Author E-mail: rockybd1995@gmail.com
+
+@Default Styles
+
+Table of Content:
+01/ Variables
+02/ predefin
+03/ header
+04/ button
+05/ banner
+06/ breadcrumb
+07/ about
+08/ team
+09/ project 
+10/ price 
+11/ team 
+12/ blog 
+13/ video  
+14/ features  
+15/ career  
+16/ contact 
+17/ footer
+
+=====================================================================*/
+/*----------------------------------------------------*/
+/*font Variables*/
+/*Color Variables*/
+/*=================== fonts ====================*/
+@import url("https://fonts.googleapis.com/css?family=Oswald:300,400,500,600,700|Raleway:300,400,500,600,700");
+/*---------------------------------------------------- */
+/*----------------------------------------------------*/
+
+
+img{
+    width:70%;
+    height:100%;
+} 
+
+.team_area{
+  display:inline-block;
+}
+
+.list {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+a {
+  text-decoration: none;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+a:hover, a:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+.row.m0 {
+  margin: 0px;
+}
+
+body {
+  line-height: 26px;
+  font-size: 15px;
+  font-family: "Raleway", sans-serif;
+  font-weight: normal;
+  color: #666666;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Oswald", sans-serif;
+  font-weight: bold;
+}
+
+button:focus {
+  outline: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.p_120 {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.pad_top {
+  padding-top: 120px;
+}
+
+.mt-25 {
+  margin-top: 25px;
+}
+
+.p0 {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1170px;
+  }
+}
+
+@media (min-width: 1620px) {
+  .box_1620 {
+    max-width: 1650px;
+    margin: auto;
+  }
+}
+
+@media (min-width: 1200px) {
+  .header_area.home_menu {
+    display: none;
+  }
+  .header_area.home_menu + section, .header_area.home_menu + row, .header_area.home_menu + div {
+    margin-top: 0px;
+  }
+}
+
+
+/* Team Area css
+/*----------------------------------------------------*/
+
+
+
+.team_item {
+  position: relative;
+  margin-bottom: 5%;
+}
+
+.team_item:before {
+  content: "";
+  background: url(../img/team/team-overlay.png) no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 71%;
+}
+
+.team_item .hover_text {
+  position: absolute;
+  left: 0px;
+  bottom: 50px;
+  width: 70%;
+  text-align: center;
+  -webkit-transition: all 300ms linear 0s;
+  -o-transition: all 300ms linear 0s;
+  transition: all 300ms linear 0s;
+}
+
+.team_item .hover_text h4 {
+  font-size: 24px;
+  color: #000000;
+  text-transform: uppercase;
+  -webkit-transition: all 300ms linear 0s;
+  -o-transition: all 300ms linear 0s;
+  transition: all 300ms linear 0s;
+}
+
+.team_item .hover_text p {
+  color: #000000;
+  margin-bottom: 0px;
+  -webkit-transition: all 300ms linear 0s;
+  -o-transition: all 300ms linear 0s;
+  transition: all 300ms linear 0s;
+}
+
+.team_item .hover_text .list {
+  margin-top: 0px;
+  height: 0px;
+  overflow: hidden;
+  -webkit-transition: all 300ms linear 0s;
+  -o-transition: all 300ms linear 0s;
+  transition: all 300ms linear 0s;
+  opacity: 0;
+}
+
+.team_item .hover_text .list li {
+  display: inline-block;
+  margin-right: 4px;
+}
+
+.team_item .hover_text .list li a {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  background: #e9ebee;
+  text-align: center;
+  color: #000000;
+  line-height: 30px;
+}
+
+.team_item .hover_text .list li:last-child {
+  margin-right: 0px;
+}
+
+.team_item .hover_text .list li:hover a {
+  background: #a7cb00;
+  color: #fff;
+}
+
+.team_item:hover .list {
+  height: 30px;
+  overflow: visible;
+  opacity: 1;
+  margin-top: 25px;
+  -webkit-transition: all 300ms linear 0s;
+  -o-transition: all 300ms linear 0s;
+  transition: all 300ms linear 0s;
+}
+
+/* End Team Area css
+============================================================================================ */
+
