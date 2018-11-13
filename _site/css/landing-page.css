@@ -197,7 +197,7 @@ p.copyright {
 .dropdown {
    position: relative;
    display: inline-block;
-   margin-top:11px;
+   margin-top:12px;
    color:#777;
    right:-1px;
 
@@ -274,5 +274,9 @@ p.copyright {
   color:#333;
   text-decoration: none;
   background-color: #e7e7e7;
+}
+
+#img-Contable{
+  align-items: flex-end;
 
 }
