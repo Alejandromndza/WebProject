@@ -128,8 +128,8 @@ display: inline-block;
 }
 
 @media (max-width:1000px){
-  #teamrow{
-    display: inline-table;
+  .item{
+    width: auto;
   }
 }
 /* Team Area css
