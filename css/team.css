@@ -42,16 +42,22 @@ Table of Content:
 /*----------------------------------------------------*/
 
 .item{
-  float:left;
+  flex:1 0 25%;
 }
 .team_item img{
     width:70%;
     height:100%;
 }
+.team_item{
 
+}
 .team_area{
-  display:inline-block;
-  
+display: inline-block;
+
+}
+#teamrow{
+  display: flex;
+  flex-wrap: wrap;
 
 }
 
@@ -113,7 +119,11 @@ Table of Content:
   }
 }
 
-
+@media (max-width:1000px){
+  #teamrow{
+    display: inline-table;
+  }
+}
 /* Team Area css
 /*----------------------------------------------------*/
 
