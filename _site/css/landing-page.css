@@ -277,6 +277,29 @@ p.copyright {
 }
 
 #img-Contable{
-  align-items: flex-end;
+  bottom: 50px;
+  position: absolute;
+}
 
+#img-Fiscal{
+  position: absolute;
+  bottom: 15%;
+  left:40%;
+}
+
+#img-Gestión{
+  position: relative;
+  bottom: -65px;
+}
+
+#img-Seguros{
+  position: relative;
+  bottom:-75px
+
+}
+
+#img-Laboral{
+  position: relative;
+  bottom: -100px;
+  left: 200px;
 }
