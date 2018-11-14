@@ -44,19 +44,3 @@
     </div>
   </div>
 </section>
-
-
-<?php
-if(isset($_POST['submit'])){
-    $to = "alejme02@ucm.es"; // this is your Email address
-    $from = $_POST['email']; // this is the sender's Email address
-    $name = $_POST['name'];
-    $msg = $_POST['message'];
-    $message = $name. " mensaje:" . "\n\n" . $_POST['message'];
-    $subject = "Form ROCAMORA";
-    $headers = "De:" . $from;
-    mail($to,$subject,$message,$headers);
-    echo "Mensaje enviado. Gracias " . $name . ", contactaremos contigo lo más pronto posible.";
-
-    }
-?>
