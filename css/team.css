@@ -51,9 +51,9 @@ Table of Content:
 }
 
 .item{
-  position: relative;
-  flex:1 1 4s;
-  width: 35%;
+
+  width: 50%;
+
 }
 .team_area{
 display: inline-block;
@@ -62,9 +62,6 @@ display: inline-block;
 #teamrow{
   display: flex;
   flex-wrap: wrap;
-  width: 75%;
-  position: relative;
-  left:29%;
 }
 
 
@@ -127,10 +124,11 @@ display: inline-block;
   }
 }
 
-@media (max-width:1000px){
-  .item{
-    width: auto;
+@media (max-width: 600px){
+    .hover_text  {
+    font-size: 50%;
   }
+
 }
 /* Team Area css
 /*----------------------------------------------------*/
@@ -148,14 +146,14 @@ display: inline-block;
   background-size: cover;
   position: absolute;
   top: 0px;
-  left: 0px;
+  left: 15%;
   height: 100%;
   width: 71%;
 }
 
 .team_item .hover_text {
   position: absolute;
-  left: 0px;
+  left: 15%;
   bottom: 40px;
   width: 70%;
   text-align: center;
