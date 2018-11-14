@@ -13,7 +13,7 @@ require '../PHPMailer-master/src/SMTP.php';
 if(isset($_POST['email'])) {
 
     // EDIT THE 2 LINES BELOW AS REQUIRED
-    $email_to = "andreswauu@gmail.com";
+  
     $email_subject = "Your email subject line";
 
     function died($error) {
@@ -99,7 +99,7 @@ $mail->SMTPAuth = true;
 //Username to use for SMTP authentication - use full email address for gmail
 $mail->Username = "rocamorasesores@gmail.com";
 //Password to use for SMTP authentication
-$mail->Password = "fabelo12345";
+$mail->Password = "";
 //Set who the message is to be sent from
 $mail->setFrom('rocamorasesores@gmail.com');
 
