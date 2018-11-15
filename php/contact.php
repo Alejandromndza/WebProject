@@ -1,7 +1,5 @@
 <?php
 
-
-
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
@@ -13,15 +11,15 @@ require '../PHPMailer-master/src/SMTP.php';
 if(isset($_POST['email'])) {
 
     // EDIT THE 2 LINES BELOW AS REQUIRED
-  
+
     $email_subject = "Your email subject line";
 
     function died($error) {
         // your error code can go here
-        echo "We are very sorry, but there were error(s) found with the form you submitted. ";
-        echo "These errors appear below.<br /><br />";
+        echo "Lo sentimos pero la petición no ha podido ser procesada. ";
+        echo "Los errores aparecen a continuación.<br /><br />";
         echo $error."<br /><br />";
-        echo "Please go back and fix these errors.<br /><br />";
+        echo "Por favor , vuelve e introduce los datos correctamente..<br /><br />";
         die();
     }
 
@@ -99,13 +97,13 @@ $mail->SMTPAuth = true;
 //Username to use for SMTP authentication - use full email address for gmail
 $mail->Username = "rocamorasesores@gmail.com";
 //Password to use for SMTP authentication
-$mail->Password = "";
+$mail->Password = "fabelo12345";
 //Set who the message is to be sent from
 $mail->setFrom('rocamorasesores@gmail.com');
 
 //Set who the message is to be sent to
-$mail->addAddress('andreswauu@gmail.com');
-//$mail->addAddress('info@rocamoraasesores.com');
+$mail->addAddress('info@rocamoraasesores.com');
+//$mail->addAddress('andreswauu@gmail.com');
 //Set the subject line
 $mail->Subject = 'Consulta desde la web Rocamoraasesores.';
 //Read an HTML message body from an external file, convert referenced images to embedded,
@@ -117,7 +115,7 @@ $mail->AltBody = $email_message;
 
 //send the message, check for errors
 if (!$mail->send()) {
-echo "Tu mensaje no ha podido ser enviado , lo sentimos."
+//echo "Tu mensaje no ha podido ser enviado , lo sentimos."
 //. $mail->ErrorInfo;
 } else {
 echo "Mensaje enviado!";
