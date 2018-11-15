@@ -10,7 +10,7 @@
 					<span class="contact100-form-title" id="contact1">
 
 					</span>
-					<span class="contact100-form-title" id="contact2">
+					<span class="contact100-form-title" id="info">
 						Contacto
 					</span>
 
