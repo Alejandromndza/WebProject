@@ -128,6 +128,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
   // =======================
 
   function Plugin(option) {
+
     return this.each(function () {
       var $this = $(this)
       var data  = $this.data('bs.alert')
@@ -135,6 +136,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
       if (!data) $this.data('bs.alert', (data = new Alert(this)))
       if (typeof option == 'string') data[option].call($this)
     })
+
   }
 
   var old = $.fn.alert
